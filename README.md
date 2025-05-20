@@ -1,2 +1,2 @@
 # Project-1-Deep-Learning-Image-Classification-with-CNN
-A deep learning project implementing Convolutional Neural Networks (CNNs) for image classification. Trained on [dataset name], the model achieves high accuracy in recognizing and categorizing images across multiple classes. Built using TensorFlow/Keras (or PyTorch), with data preprocessing, model training, evaluation, and visualization included.
+A deep learning project implementing Convolutional Neural Networks (CNNs) for image classification. Trained on Animals-10 Kaggle dataset, the model achieves high accuracy in recognizing and categorizing images across multiple animal classes. Built using TensorFlow/Keras, with data preprocessing, model training, evaluation, and visualization included.
